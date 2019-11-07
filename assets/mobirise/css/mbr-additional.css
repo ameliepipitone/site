@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -2335,6 +2336,10 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+#instagram-feed-block-f .inst__title {
+  text-align: center;
+  color: #7f1933;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
